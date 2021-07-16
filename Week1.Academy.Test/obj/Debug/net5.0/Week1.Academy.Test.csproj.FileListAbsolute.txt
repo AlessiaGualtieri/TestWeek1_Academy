@@ -1,0 +1,16 @@
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\bin\Debug\net5.0\Week1.Academy.Test.exe
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\bin\Debug\net5.0\Week1.Academy.Test.deps.json
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\bin\Debug\net5.0\Week1.Academy.Test.runtimeconfig.json
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\bin\Debug\net5.0\Week1.Academy.Test.runtimeconfig.dev.json
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\bin\Debug\net5.0\Week1.Academy.Test.dll
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\bin\Debug\net5.0\ref\Week1.Academy.Test.dll
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\bin\Debug\net5.0\Week1.Academy.Test.pdb
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.csproj.AssemblyReference.cache
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.AssemblyInfoInputs.cache
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.AssemblyInfo.cs
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.csproj.CoreCompileInputs.cache
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.dll
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\ref\Week1.Academy.Test.dll
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.pdb
+C:\Users\alessia.gualtieri\source\repos\Week1.Academy.Test\Week1.Academy.Test\obj\Debug\net5.0\Week1.Academy.Test.genruntimeconfig.cache
